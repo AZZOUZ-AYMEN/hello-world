@@ -1,2 +1,3 @@
 # hello-world
-just a repository
+Hi guys everywhere
+I'm Aymen
